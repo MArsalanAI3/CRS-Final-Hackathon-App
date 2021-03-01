@@ -1,42 +1,33 @@
 {
   "project_info": {
-    "project_number": "1060101010528",
-    "firebase_url": "https://bloodbank-app-a7849-default-rtdb.firebaseio.com",
-    "project_id": "bloodbank-app-a7849",
-    "storage_bucket": "bloodbank-app-a7849.appspot.com"
+    "project_number": "871587327572",
+    "project_id": "hackathon-7b5c8",
+    "storage_bucket": "hackathon-7b5c8.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1060101010528:android:c527857203cbd850cbff05",
+        "mobilesdk_app_id": "1:871587327572:android:a12299d51316f9c12e07c1",
         "android_client_info": {
           "package_name": "com.hackathon"
         }
       },
       "oauth_client": [
         {
-          "client_id": "1060101010528-r8jknd566ou6f4kpd5ru579218o6qkkt.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.hackathon",
-            "certificate_hash": "7f04b73635763d26614cff64cf3b4eebef96201b"
-          }
-        },
-        {
-          "client_id": "1060101010528-trsn827ari104662hphjs8jvek8m4023.apps.googleusercontent.com",
+          "client_id": "871587327572-0eu2t4nf2qatufhcsti64lbov5319c2f.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyC9pt6NbMGdud5Ev0vp_CeQxpjioIb1tZY"
+          "current_key": "AIzaSyCaVm2_rUj8AW5O0wqk84I1ON3LEBLbyPI"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "1060101010528-trsn827ari104662hphjs8jvek8m4023.apps.googleusercontent.com",
+              "client_id": "871587327572-0eu2t4nf2qatufhcsti64lbov5319c2f.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
